@@ -1,0 +1,366 @@
+### Aaron Eisman
+### ATC search results for first and second-line oral antihypertensive medications by ingredient on https://www.whocc.no/
+### Accessed on 11/17/2022
+### Annotated (in "Note" with "YES") for inclusion in "Table 18 - Oral Antihypertensive Drugs" from Whelton et al. 2017 High Blood Pressure Clinical Practice Guidelines
+
+###########################################
+###########################################
+### PRIMARY AGENTS ########################
+###########################################
+###########################################
+
+###########################################
+### Thiazide or thiazide-type diuretics ###
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C03 DIURETICS
+C03A LOW-CEILING DIURETICS, THIAZIDES
+C03AA Thiazides, plain
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C03AA01 	bendroflumethiazide 	2.5 	mg 	O 	
+    C03AA02 	hydroflumethiazide 	    25 	    mg 	O 	
+    C03AA03 	hydrochlorothiazide 	25 	    mg 	O        YES	
+    C03AA04 	chlorothiazide 	        0.5 	g 	O 	
+    C03AA05 	polythiazide 	        1 	    mg 	O 	
+    C03AA06 	trichlormethiazide 	    4 	    mg 	O 	
+    C03AA07 	cyclopenthiazide 	    0.5 	mg 	O 	
+    C03AA08 	methyclothiazide 	    5 	    mg 	O 	
+    C03AA09 	cyclothiazide 	        5 	    mg 	O 	
+    C03AA13 	mebutizide 
+
+C CARDIOVASCULAR SYSTEM
+C03 DIURETICS
+C03B LOW-CEILING DIURETICS, EXCL. THIAZIDES
+C03BA Sulfonamides, plain
+    ATC code  	Name  	                DDD 	U 	Adm.R	 Note
+    C03BA02 	quinethazone 	        50 	    mg 	O 	
+    C03BA03 	clopamide 	            10 	    mg 	O 	
+    C03BA04 	chlortalidone 	        25 	    mg 	O 	     YES
+    C03BA05 	mefruside 	            25 	    mg 	O 	
+    C03BA07 	clofenamide 	 	 	 	
+    C03BA08 	metolazone 	            5 	    mg 	O 	     YES
+    C03BA09 	meticrane 	 	 	 	
+    C03BA10 	xipamide 	            20 	    mg 	O 	
+    C03BA11 	indapamide 	            2.5 	mg 	O 	     YES
+    C03BA12 	clorexolone 	 	 	 	
+    C03BA13 	fenquizone 	 	 	 	
+    C03BA82 	clorexolone, combinations with psycholeptics
+
+New search    Show text from Guidelines
+
+###########################################
+### ACE inhibitors ########################
+###########################################
+
+Oral Antihypertensive Drugs and Corresponding ATC Codes
+
+C CARDIOVASCULAR SYSTEM
+C09 AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C09AA ACE inhibitors, plain
+    ATC code  	Name  	    DDD 	 U 	Adm.R	 Note
+    C09AA01 	captopril 	50 	    mg 	O        YES 	
+    C09AA02 	enalapril 	10 	    mg 	O 	     YES
+                            10 	    mg 	P 	
+    C09AA03 	lisinopril 	10 	    mg 	O 	     YES
+    C09AA04 	perindopril 4 	    mg 	O        YES 	
+    C09AA05 	ramipril 	2.5 	mg 	O        YES 	
+    C09AA06 	quinapril 	15 	    mg 	O        YES 	
+                            15 	    mg 	P 	
+    C09AA07 	benazepril 	7.5 	mg 	O 	     YES
+    C09AA08 	cilazapril 	2.5 	mg 	O 	
+    C09AA09 	fosinopril 	15 	    mg 	O 	     YES
+    C09AA10 	trandolapril 2 	    mg 	O        YES 	
+    C09AA11 	spirapril 	 6 	    mg 	O 	
+    C09AA12 	delapril 	30 	    mg 	O 	
+    C09AA13 	moexipril 	15 	    mg 	O        YES 	
+    C09AA14 	temocapril 	10 	    mg 	O 	
+    C09AA15 	zofenopril 	30 	    mg 	O 	
+    C09AA16 	imidapril 	10 	    mg 	O
+
+###########################################
+### ARBs ##################################
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C09 AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C09C ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), PLAIN
+C09CA Angiotensin II receptor blockers (ARBs), plain
+    ATC code  	Name  	                DDD 	U 	Adm.R	 Note
+    C09CA01 	losartan 	            50 	    mg 	O        YES
+    C09CA02 	eprosartan 	            0.6 	g 	O 	     YES
+    C09CA03 	valsartan 	            80 	    mg 	O 	     YES
+    C09CA04 	irbesartan 	            0.15 	g 	O 	     YES
+    C09CA05 	tasosartan 	 	 	 	
+    C09CA06 	candesartan 	        8 	    mg 	O 	     YES
+    C09CA07 	telmisartan     	    40 	    mg 	O 	     YES
+    C09CA08 	olmesartan medoxomil    20      mg 	O 	     YES
+    C09CA09 	azilsartan medoxomil 	40  	mg 	O 	     YES
+    C09CA10 	fimasartan 	            60  	mg 	O 	
+
+###########################################
+### CCB-dihydropyridines ##################
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C08 CALCIUM CHANNEL BLOCKERS
+C08C SELECTIVE CALCIUM CHANNEL BLOCKERS WITH MAINLY VASCULAR EFFECTS
+C08CA Dihydropyridine derivatives
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C08CA01 	amlodipine 	            5 	    mg 	O 	     YES
+    C08CA02 	felodipine 	            5 	    mg 	O 	     YES
+    C08CA03 	isradipine 	            5 	    mg 	O 	     YES
+                                        5 	    mg 	P 	     
+    C08CA04 	nicardipine 	        90  	mg 	O 	     YES
+                                        90 	    mg 	P 	
+    C08CA05 	nifedipine 	            30  	mg 	O 	     YES
+                                        30 	    mg 	P 	
+    C08CA06 	nimodipine 	            0.3 	g 	O 	
+                                        50 	    mg 	P 	
+    C08CA07 	nisoldipine 	        20 	    mg 	O 	     YES
+    C08CA08 	nitrendipine 	        20 	    mg 	O 	
+    C08CA09 	lacidipine          	4 	    mg 	O 	
+    C08CA10 	nilvadipine         	8 	    mg 	O 	
+    C08CA11 	manidipine 	            10 	    mg 	O 	
+    C08CA12 	barnidipine 	        10 	    mg 	O 	
+    C08CA13 	lercanidipine       	10 	    mg 	O 	
+    C08CA14 	cilnidipine 	        10 	    mg 	O 	
+    C08CA15 	benidipine 	 	 	 	
+    C08CA16 	clevidipine 	 	 	 	
+    C08CA17 	levamlodipine 	 	 	 	
+    C08CA51 	amlodipine and celecoxib 	 	 	 	
+    C08CA55 	nifedipine, combinations
+
+###########################################
+### CCB-nondihydropyridines ###############
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C08 CALCIUM CHANNEL BLOCKERS
+C08D SELECTIVE CALCIUM CHANNEL BLOCKERS WITH DIRECT CARDIAC EFFECTS
+C08DB Benzothiazepine derivatives
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C08DB01 	diltiazem 	            0.24 	 g 	O        YES
+
+C CARDIOVASCULAR SYSTEM
+C08 CALCIUM CHANNEL BLOCKERS
+C08D SELECTIVE CALCIUM CHANNEL BLOCKERS WITH DIRECT CARDIAC EFFECTS
+C08DA Phenylalkylamine derivatives
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C08DA01 	verapamil 	            0.24 	 g 	O        YES 	
+                                        0.24 	 g 	P 	
+    C08DA02 	gallopamil 	 	 	 	
+    C08DA51 	verapamil, combinations
+
+
+###########################################
+###########################################
+### SECONDARY AGENTS ######################
+###########################################
+###########################################
+
+###########################################
+### Diuretics-loop ########################
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C03 DIURETICS
+C03C HIGH-CEILING DIURETICS
+C03CA Sulfonamides, plain
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C03CA01 	furosemide 	            40 	     mg 	O 	 YES
+                                        40 	     mg 	P 	
+    C03CA02 	bumetanide 	            1 	     mg 	O 	 YES
+                                        1 	     mg 	P 	
+    C03CA03 	piretanide 	 	 	 	
+    C03CA04 	torasemide 	            15 	     mg 	O    YES 	
+                                        15 	     mg 	P 
+
+###############################################
+### Diuretics-potassium sparing ###############
+###############################################
+
+C CARDIOVASCULAR SYSTEM
+C03 DIURETICS
+C03D ALDOSTERONE ANTAGONISTS AND OTHER POTASSIUM-SPARING AGENTS
+C03DB Other potassium-sparing agents
+    ATC code  	Name  	                DDD 	U 	Adm.R	 Note
+    C03DB01 	amiloride 	            10 	    mg 	O 	     YES
+    C03DB02 	triamterene 	        0.1 	g 	O        YES
+
+#####################################################
+### Diuretics-aldosterone antagonists ###############
+#####################################################
+
+C CARDIOVASCULAR SYSTEM
+C03 DIURETICS
+C03D ALDOSTERONE ANTAGONISTS AND OTHER POTASSIUM-SPARING AGENTS
+C03DA Aldosterone antagonists
+    ATC code  	Name  	                DDD 	U 	Adm.R	 Note
+    C03DA01 	spironolactone 	        75 	    mg 	O 	     YES
+    C03DA02 	potassium canrenoate 	0.4 	g 	P 	
+    C03DA03 	canrenone 	 	 	 	
+    C03DA04 	eplerenone 	            50  	mg 	O 	     YES
+    C03DA05 	finerenone 
+
+#################################################
+### Beta blockers-cardioselective ###############
+#################################################
+
+C CARDIOVASCULAR SYSTEM
+C07 BETA BLOCKING AGENTS
+C07A BETA BLOCKING AGENTS
+C07AB Beta blocking agents, selective
+    ATC code  	Name  	                DDD 	U 	Adm.R	 Note
+    C07AB01 	practolol 	            0.3 	g 	O 	
+                                        20 	    mg 	P 	
+    C07AB02 	metoprolol 	            0.15 	g 	O 	     YES
+                                        0.15 	g 	P 	
+    C07AB03 	atenolol 	            75 	    mg 	O        YES	
+                                        75 	    mg 	P 	
+    C07AB04 	acebutolol 	            0.4 	g 	O 	     YES / other category
+                                        0.4 	g 	P 	
+    C07AB05 	betaxolol 	            20 	    mg 	O 	     YES
+    C07AB06 	bevantolol 	            0.3 	g 	O 	
+    C07AB07 	bisoprolol 	            10 	    mg 	O 	     YES
+    C07AB08 	celiprolol 	            0.2 	g 	O 	
+    C07AB09 	esmolol 	            2.5 	g 	P 	
+    C07AB10 	epanolol 	            0.2 	g 	O 	
+    C07AB11 	s-atenolol 	            50 	    mg 	O 	
+    C07AB12 	nebivolol 	            5 	    mg 	O        YES / other category
+    C07AB13 	talinolol 	            0.1 	g 	O 	
+    C07AB14 	landiolol 
+
+##################################################################
+### Beta blockers-cardioselective and vasodilatory ###############
+##################################################################
+
+SEE ABOVE (nebivolol)
+
+####################################################################
+### Beta blockers-intrinsic sympathomimetic activity ###############
+####################################################################
+
+C CARDIOVASCULAR SYSTEM
+C07 BETA BLOCKING AGENTS
+C07A BETA BLOCKING AGENTS
+C07AA Beta blocking agents, non-selective
+    ATC code  	Name  	                DDD 	U 	Adm.R	 Note
+    C07AA01 	alprenolol 	            0.4 	g 	O 	
+                                        0.4 	g 	P 	
+    C07AA02 	oxprenolol 	            0.16 	g 	O 	
+                                        0.16 	g 	P 	
+    C07AA03 	pindolol 	            15 	    mg 	O 	     YES / other category
+                                        15 	    mg 	P 	
+    C07AA05 	propranolol 	        0.16 	g 	O 	     YES
+                                        0.16 	g 	P 	
+    C07AA06 	timolol 	            20 	    mg 	O 	
+                                        20 	    mg 	P 	
+    C07AA07 	sotalol 	            0.16 	g 	O 	
+                                        0.16 	g 	P 	
+    C07AA12 	nadolol 	            0.16 	g 	O 	     YES
+    C07AA14 	mepindolol 	            5 	    mg 	O 	
+    C07AA15 	carteolol 	            10 	    mg 	O 	
+    C07AA16 	tertatolol 	            5 	    mg 	O 	
+    C07AA17 	bopindolol 	 	 	 	
+    C07AA19 	bupranolol 	 	 	 	
+    C07AA23 	penbutolol 	            40 	    mg 	O        YES / other category
+    C07AA27 	cloranolol 
+
+###################################################################
+### Beta blockers-combined alpha- and beta-receptor ###############
+###################################################################
+
+SEE above (acebutolol, penbutolol, pindolol)
+
+###########################################
+### Direct renin inhibitor ###############
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C09 AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C09X OTHER AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C09XA Renin-inhibitors
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C09XA01 	remikiren 	 	 	 	
+    C09XA02 	aliskiren 	            0.15 	 g 	O        YES 	
+    C09XA52 	aliskiren and hydrochlorothiazide 	 	 	 	
+    C09XA53 	aliskiren and amlodipine 	 	 	 	
+    C09XA54 	aliskiren, amlodipine and hydrochlorothiazide 
+
+###########################################
+### Alpha-1 blockers ######################
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C02 ANTIHYPERTENSIVES
+C02C ANTIADRENERGIC AGENTS, PERIPHERALLY ACTING
+C02CA Alpha-adrenoreceptor antagonists
+    ATC code  	Name  	                DDD 	 U 	    Adm.R	 Note
+    C02CA01 	prazosin 	            5 	     mg 	O 	     YES
+    C02CA02 	indoramin 	 	 	 	
+    C02CA03 	trimazosin 	            0.3 	 g 	    O 	
+    C02CA04 	doxazosin 	            4 	     mg 	O 	     YES
+    C02CA06 	urapidil 	            0.12 	 g 	    O 	
+    50 	mg 	P 
+
+G GENITO URINARY SYSTEM AND SEX HORMONES
+G04 UROLOGICALS
+G04C DRUGS USED IN BENIGN PROSTATIC HYPERTROPHY
+G04CA Alpha-adrenoreceptor antagonists
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    G04CA01 	alfuzosin 	            7.5 	 mg 	O 	
+    G04CA02 	tamsulosin 	            0.4 	 mg 	O 	
+    G04CA03 	terazosin 	            5 	     mg  	O 	 YES
+    G04CA04 	silodosin 	            8 	     mg 	O 	
+    G04CA51 	alfuzosin and finasteride 	 	 	 	
+    G04CA52 	tamsulosin and dutasteride 	 	 	 	
+    G04CA53 	tamsulosin and solifenacin 	 	 	 	
+    G04CA54 	tamsulosin and tadalafil 
+
+############################################################################
+### Central alpha_2-agonist and other centrally acting drugs ###############
+############################################################################
+
+C CARDIOVASCULAR SYSTEM
+C02 ANTIHYPERTENSIVES
+C02A ANTIADRENERGIC AGENTS, CENTRALLY ACTING
+C02AC Imidazoline receptor agonists
+    ATC code  	Name  	                DDD 	 U 	Adm.R	 Note
+    C02AC01 	clonidine 	            0.45 	 mg 	O    YES // can also be a patch 	
+                                        0.45 	 mg 	P 	
+    C02AC02 	guanfacine 	            3 	     mg 	O 	 YES
+    C02AC04 	tolonidine 	            0.75 	 mg 	O 	
+    C02AC05 	moxonidine 	            0.3 	 mg 	O 	
+    C02AC06 	rilmenidine 
+
+C CARDIOVASCULAR SYSTEM
+C02 ANTIHYPERTENSIVES
+C02A ANTIADRENERGIC AGENTS, CENTRALLY ACTING
+C02AB Methyldopa
+    ATC code  	Name  	                    DDD 	 U 	Adm.R	 Note
+    C02AB01 	methyldopa (levorotatory) 	1 	     g 	O 	     YES
+                                            1 	     g 	P 	
+    C02AB02 	methyldopa (racemic) 	    2 	     g 	O        YES
+
+###########################################
+### Direct vasodilators ###################
+###########################################
+
+C CARDIOVASCULAR SYSTEM
+C02 ANTIHYPERTENSIVES
+C02D ARTERIOLAR SMOOTH MUSCLE, AGENTS ACTING ON
+C02DB Hydrazinophthalazine derivatives
+    ATC code  	Name  	        DDD 	 U 	Adm.R	 Note
+    C02DB01 	dihydralazine 	75 	     mg 	O 	
+                                25 	     mg 	P 	
+    C02DB02 	hydralazine 	0.1 	 g 	    O    YES 	
+    C02DB03 	endralazine 	10 	     mg 	O 	
+    C02DB04 	cadralazine 	15 	     mg 	O
+
+C CARDIOVASCULAR SYSTEM
+C02 ANTIHYPERTENSIVES
+C02D ARTERIOLAR SMOOTH MUSCLE, AGENTS ACTING ON
+C02DC Pyrimidine derivatives
+    ATC code  	Name  	        DDD 	 U 	Adm.R	 Note
+    C02DC01 	minoxidil 	    20 	     mg 	O    YES // watch out for topical hair growth form
