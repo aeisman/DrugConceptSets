@@ -9,4 +9,4 @@ Guidelines Driven Standard Concept Sets for Electronic Health Records Research
 - ATC codes were converted to RxNorm ingredients using the Athena vocabulary in an OHDSI OMOP CDM.
 - All children of the RxNorm ingredients were determined using the same CDM.
 - RxNorm cuis were then queried for doseForm from the RxNorm rest api (e.g. https://rxnav.nlm.nih.gov/REST/rxcui/29046/historystatus.json)
-- Details for determining oral forms of drugs from the rest api results are detailed in code comments
+- Methods for determining oral forms of drugs from the rest api results are detailed in code comments
