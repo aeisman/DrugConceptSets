@@ -1,5 +1,5 @@
 # drug_concept_sets
-Guidelines Driven Standard Concept Sets for Electronic Health Records Research
+Guidelines driven standard concept sets for electronic realth records research
 
 ## Hypertension
 
