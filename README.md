@@ -1,4 +1,4 @@
-# drug_concept_sets
+# DrugConceptSets
 Guidelines driven standard concept sets for electronic realth records research
 
 ## Hypertension
