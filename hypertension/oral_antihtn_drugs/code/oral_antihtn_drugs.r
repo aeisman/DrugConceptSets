@@ -80,7 +80,7 @@ main <- function(){
     library(SqlRender)
 
     #import specific database environment connection details and ATC code source file
-    source(oral_anihtn_drugs.conf)
+    source(oral_antihtn_drugs.conf)
 
     atc_codes = read_annotated_atc_file(file)
 
